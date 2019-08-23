@@ -11,8 +11,8 @@ services:
   mysql:
     image: mysql:5.7
     environment:
-      - MYSQL_ROOT_PASSWORD=password
-      - MYSQL_DATABASE=eughu
+      - MYSQL_ROOT_PASSWORD=root
+      - MYSQL_DATABASE=blog
   jenkins:
     image: jenkins/jenkins:latest
     ports:
