@@ -1,0 +1,2 @@
+# FlaskBlog
+This project was used as a learning experience for creating a simple web app using Python and Flask. SQL Alchemy was used in conjunction with a MySQL database to store user accounts and blog posts. Docker was used to deploy the flask application, the database and jenkins in seperate containers. Jenkins was used to provide automatic updates to the application based on changes within the github repository, the application would be rebuilt and deployed automatically.
