@@ -13,17 +13,14 @@ div.post{
   padding: 20px;
   margin-top: 20px;
 }
-div.about {
+div.form {
   padding: 10px 0 30px 0;
   background-color: #E6E6FA;
-  -webkit-border-radius: 6px;
-     -moz-border-radius: 6px;
-          border-radius: 6px;
 }
 
 h1 {
-  font-size: 5em;
-  margin-top: 40px;
+  font-size: 4em;
+  margin-top: 10px;
   text-align: center;
   letter-spacing: -2px;
   color: #8FA6CB;
